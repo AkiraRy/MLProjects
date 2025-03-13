@@ -1,0 +1,12 @@
+env_backup
+.env
+*.pdf
+dataset
+.idea
+*.csv
+*.txt
+*.png
+__pycache__
+test.py
+test.jpg
+layer_test.py
