@@ -10,3 +10,7 @@ __pycache__
 test.py
 test.jpg
 layer_test.py
+*.jfif
+*.mp4
+*.avi
+todo
